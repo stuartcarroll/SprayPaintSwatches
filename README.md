@@ -47,7 +47,9 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 
 ---
 
-## 📦 Available Swatch Files
+## 📦 Available Files
+
+All spray paint colors are available in **three formats**: ASE (Adobe apps), PDF (printable), and Excel (sortable data).
 
 ### ASE Files (Adobe Swatch Exchange)
 
@@ -75,6 +77,19 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | `mtn_hardcore_colors.pdf` | MTN Hardcore 400ml | 139 | 22 KB |
 | `mtn_water_based_colors.pdf` | MTN Water Based 400ml | 74 | 13 KB |
 | `molotow_premium_colors.pdf` | Molotow PREMIUM 400ml | 163 | 25 KB |
+
+### Excel Spreadsheets (Sortable Data with Color Swatches)
+
+| File | Brand | Colors | Size |
+|------|-------|--------|------|
+| `loop_colors.xlsx` | Loop Colors 400ml | 211 | 25 KB |
+| `montana_gold.xlsx` | Montana GOLD 400ml | 193 | 23 KB |
+| `montana_black.xlsx` | Montana BLACK 400ml | 164 | 21 KB |
+| `montana_white.xlsx` | Montana WHITE 400ml | 24 | 7.4 KB |
+| `mtn94.xlsx` | MTN 94 400ml | 169 | 21 KB |
+| `mtn_hardcore.xlsx` | MTN Hardcore 400ml | 139 | 18 KB |
+| `mtn_water_based.xlsx` | MTN Water Based 400ml | 74 | 14 KB |
+| `molotow_premium.xlsx` | Molotow PREMIUM 400ml | 163 | 20 KB |
 
 **Total Colors**: 1,147 authentic spray paint colors
 ***Note**: Molotow Belton is currently incomplete and being improved
@@ -145,11 +160,37 @@ git clone https://github.com/stuartcarroll/SprayPaintSwatches.git
 5. Choose your `.ase` file
 6. Click **Open**
 
+### Microsoft Excel / Google Sheets / LibreOffice Calc
+
+1. Download the `.xlsx` file
+2. Open with Excel, Google Sheets, or LibreOffice Calc
+3. All colors displayed with visual swatches and complete data
+4. Use sorting and filtering to find colors by:
+   - Color family (name)
+   - Product code
+   - HEX value
+   - RGB or CMYK values
+5. Print for reference or share with collaborators
+
+**Excel Features:**
+- Visual color swatches in dedicated column
+- Sortable and filterable data
+- Complete color information (name, code, HEX, RGB, CMYK, volume, vendor)
+- Professional formatting with frozen headers
+- Compatible with Excel, Google Sheets, LibreOffice
+
 ---
 
-## 🖨️ PDF Color Charts
+## 🖨️ PDF Color Charts & Excel Spreadsheets
 
-Each ASE file also has a corresponding **printable PDF color chart** for quick reference. These PDFs show:
+Each color collection is available in **three formats**:
+- **ASE files** - For Adobe applications (Photoshop, Illustrator, Fresco, etc.)
+- **PDF files** - Printable color reference charts
+- **Excel files** - Sortable spreadsheets with visual swatches
+
+### PDF Color Charts
+
+Printable PDF color charts for quick reference. These PDFs show:
 
 - **Color swatches** - Visual representation of each color
 - **Color names** - Full product names
@@ -166,12 +207,45 @@ Each ASE file also has a corresponding **printable PDF color chart** for quick r
 - **Shopping guide** - Take to the art store to match colors
 - **Education** - Study color relationships and palettes
 
-### How to Use
+### How to Use PDFs
 
 1. Download the PDF file for your preferred brand
 2. Open with any PDF viewer
 3. Print for physical reference, or view digitally
 4. Use the color codes to cross-reference with your spray paint collection
+
+### Excel Spreadsheets
+
+Sortable, filterable spreadsheets with visual color swatches. Excel files include:
+
+- **Visual swatches** - Cell backgrounds filled with actual colors
+- **Complete data** - Name, code, HEX, RGB, CMYK, volume, vendor
+- **Sortable columns** - Sort by name, color value, or product code
+- **Filterable data** - Filter by color family or properties
+- **Professional format** - Frozen headers, borders, auto-filter enabled
+
+### When to Use Excel
+
+- **Data analysis** - Sort colors by RGB values or color families
+- **Inventory management** - Track which colors you own
+- **Comparison** - Compare colors across different vendors
+- **Sharing** - Email spreadsheets to collaborators
+- **Import** - Load into databases or other applications
+- **Print reference** - Print sorted lists for shopping
+
+### How to Use Excel
+
+1. Download the `.xlsx` file for your preferred brand
+2. Open with Excel, Google Sheets, or LibreOffice Calc
+3. Use auto-filter to find specific colors
+4. Sort by any column (name, HEX, RGB, etc.)
+5. Print or share as needed
+
+**Excel Compatibility:**
+- ✅ Microsoft Excel (Windows, Mac)
+- ✅ Google Sheets (upload to Google Drive)
+- ✅ LibreOffice Calc (free, open-source)
+- ✅ Apple Numbers (with formatting preserved)
 
 ---
 
@@ -295,10 +369,14 @@ Each ASE file is:
 
 ```
 Total Colors:       1,147
-Total Files:        8
-Average File Size:  7.8 KB
+Total Vendors:      8
+File Formats:       3 (ASE, PDF, Excel)
+Total Files:        24 (8 ASE + 8 PDF + 8 Excel)
+ASE Average Size:   7.8 KB
+PDF Average Size:   20 KB
+Excel Average Size: 18 KB
 Color Validation:   100% pass rate
-Import Success:     100% (Photoshop/Fresco)
+Import Success:     100% (Photoshop/Fresco/Excel)
 Last Updated:       2025-11-08
 ```
 
@@ -310,15 +388,37 @@ Last Updated:       2025-11-08
 
 ```
 SprayPaintSwatches/
-├── README.md                    # This file
-├── loop_colors.ase             # Loop Colors swatches
-├── montana_gold.ase            # Montana GOLD swatches
-├── montana_black.ase           # Montana BLACK swatches
-├── molotow_belton.ase          # Molotow Belton swatches (partial)
-└── LICENSE                      # CC0 1.0 Universal
+├── README.md                         # This file
+├── LICENSE                           # CC0 1.0 Universal
+├── loop_colors.ase                   # Loop Colors ASE
+├── loop_colors_colors.pdf            # Loop Colors PDF
+├── loop_colors.xlsx                  # Loop Colors Excel
+├── montana_gold.ase                  # Montana GOLD ASE
+├── montana_gold_colors.pdf           # Montana GOLD PDF
+├── montana_gold.xlsx                 # Montana GOLD Excel
+├── montana_black.ase                 # Montana BLACK ASE
+├── montana_black_colors.pdf          # Montana BLACK PDF
+├── montana_black.xlsx                # Montana BLACK Excel
+├── montana_white.ase                 # Montana WHITE ASE
+├── montana_white_colors.pdf          # Montana WHITE PDF
+├── montana_white.xlsx                # Montana WHITE Excel
+├── mtn94.ase                         # MTN 94 ASE
+├── mtn94_colors.pdf                  # MTN 94 PDF
+├── mtn94.xlsx                        # MTN 94 Excel
+├── mtn_hardcore.ase                  # MTN Hardcore ASE
+├── mtn_hardcore_colors.pdf           # MTN Hardcore PDF
+├── mtn_hardcore.xlsx                 # MTN Hardcore Excel
+├── mtn_water_based.ase               # MTN Water Based ASE
+├── mtn_water_based_colors.pdf        # MTN Water Based PDF
+├── mtn_water_based.xlsx              # MTN Water Based Excel
+├── molotow_premium.ase               # Molotow PREMIUM ASE
+├── molotow_premium_colors.pdf        # Molotow PREMIUM PDF
+└── molotow_premium.xlsx              # Molotow PREMIUM Excel
 ```
 
-### ASE File Format
+### File Formats
+
+**ASE (Adobe Swatch Exchange)**
 
 ASE files use a binary format:
 
@@ -338,13 +438,33 @@ Each color block contains:
 - RGB values (float32, 0.0-1.0)
 - Color type (Normal/Spot/Global)
 
-### Generating Your Own ASE Files
+**PDF (Portable Document Format)**
 
-Want to create ASE files from other sources? Check out the [AdobePaint tool](https://github.com/stuartcarroll/AdobePaint) which provides:
-- Web scraping for color extraction
-- Automated ASE generation
+PDF color charts include:
+- Visual color swatches
+- Color names, codes, HEX, RGB, and CMYK values
+- Professional formatting
+- Printable on standard paper
+- Generated using ReportLab library
+
+**Excel (.xlsx - Office Open XML)**
+
+Excel spreadsheets include:
+- Visual swatches (cell backgrounds with actual colors)
+- Complete color data in columns
+- Sortable and filterable
+- Frozen header row
+- Auto-filter enabled
+- Generated using openpyxl library
+
+### Generating Your Own Files
+
+Want to create ASE, PDF, and Excel files from other sources? Check out the [AdobePaint tool](https://github.com/stuartcarroll/AdobePaint) which provides:
+- Web scraping for color extraction from vendor websites
+- Automated ASE, PDF, and Excel generation
 - Support for multiple vendors
 - Validation and quality checks
+- Three output formats in one command
 
 ---
 
