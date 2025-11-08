@@ -60,6 +60,7 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | `mtn94.ase` | MTN 94 400ml | 169 | 8.1 KB | ✅ Complete |
 | `mtn_hardcore.ase` | MTN Hardcore 400ml | 139 | 6.8 KB | ✅ Complete |
 | `mtn_water_based.ase` | MTN Water Based 400ml | 74 | 18 KB | ✅ Complete |
+| `molotow_premium.ase` | Molotow PREMIUM 400ml | 163 | 6.4 KB | ✅ Complete |
 | `molotow_belton.ase` | Molotow Belton Premium | 10* | 616 B | ⚠️ Partial |
 
 ### PDF Color Charts (Printable Reference)
@@ -73,8 +74,9 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | `mtn94_colors.pdf` | MTN 94 400ml | 169 | 27 KB |
 | `mtn_hardcore_colors.pdf` | MTN Hardcore 400ml | 139 | 22 KB |
 | `mtn_water_based_colors.pdf` | MTN Water Based 400ml | 74 | 13 KB |
+| `molotow_premium_colors.pdf` | Molotow PREMIUM 400ml | 163 | 25 KB |
 
-**Total Colors**: 984 authentic spray paint colors
+**Total Colors**: 1,147 authentic spray paint colors
 ***Note**: Molotow Belton is currently incomplete and being improved
 
 ---
@@ -292,9 +294,9 @@ Each ASE file is:
 ## 📊 Statistics
 
 ```
-Total Colors:       984
-Total Files:        7
-Average File Size:  7.6 KB
+Total Colors:       1,147
+Total Files:        8
+Average File Size:  7.8 KB
 Color Validation:   100% pass rate
 Import Success:     100% (Photoshop/Fresco)
 Last Updated:       2025-11-08
