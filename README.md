@@ -4,7 +4,7 @@ A curated collection of Adobe Swatch Exchange (.ASE) files containing authentic 
 
 ![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg)
 ![Format](https://img.shields.io/badge/format-ASE-orange.svg)
-![Colors](https://img.shields.io/badge/colors-585%2B-brightgreen.svg)
+![Colors](https://img.shields.io/badge/colors-754%2B-brightgreen.svg)
 
 ---
 
@@ -49,14 +49,26 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 
 ## 📦 Available Swatch Files
 
+### ASE Files (Adobe Swatch Exchange)
+
 | File | Brand | Colors | Size | Status |
 |------|-------|--------|------|--------|
 | `loop_colors.ase` | Loop Colors 400ml | 211 | 9.1 KB | ✅ Complete |
 | `montana_gold.ase` | Montana GOLD 400ml | 193 | 7.4 KB | ✅ Complete |
 | `montana_black.ase` | Montana BLACK 400ml | 181 | 7.6 KB | ✅ Complete |
+| `mtn94.ase` | MTN 94 400ml | 169 | 51 KB | ✅ Complete |
 | `molotow_belton.ase` | Molotow Belton Premium | 10* | 616 B | ⚠️ Partial |
 
-**Total Colors**: 585+ authentic spray paint colors
+### PDF Color Charts (Printable Reference)
+
+| File | Brand | Colors | Size |
+|------|-------|--------|------|
+| `loop_colors_colors.pdf` | Loop Colors 400ml | 211 | 31 KB |
+| `montana_gold_colors.pdf` | Montana GOLD 400ml | 193 | 29 KB |
+| `montana_black_colors.pdf` | Montana BLACK 400ml | 181 | 27 KB |
+| `mtn94_colors.pdf` | MTN 94 400ml | 169 | 25 KB |
+
+**Total Colors**: 754 authentic spray paint colors
 ***Note**: Molotow Belton is currently incomplete and being improved
 
 ---
@@ -127,6 +139,34 @@ git clone https://github.com/stuartcarroll/SprayPaintSwatches.git
 
 ---
 
+## 🖨️ PDF Color Charts
+
+Each ASE file also has a corresponding **printable PDF color chart** for quick reference. These PDFs show:
+
+- **Color swatches** - Visual representation of each color
+- **Color names** - Full product names
+- **Color codes** - Product reference codes (e.g., RV-189, LP-010)
+- **HEX values** - Web color codes (#RRGGBB)
+- **RGB values** - Red, Green, Blue (0-255)
+- **CMYK values** - Cyan, Magenta, Yellow, Black percentages
+
+### When to Use PDFs
+
+- **Print reference** - Keep a physical color chart at your workspace
+- **Quick lookup** - Find color codes without opening Adobe apps
+- **Catalog browsing** - Preview all colors before importing
+- **Shopping guide** - Take to the art store to match colors
+- **Education** - Study color relationships and palettes
+
+### How to Use
+
+1. Download the PDF file for your preferred brand
+2. Open with any PDF viewer
+3. Print for physical reference, or view digitally
+4. Use the color codes to cross-reference with your spray paint collection
+
+---
+
 ## 🎯 Swatch Details
 
 ### Loop Colors 400ml (211 colors)
@@ -159,6 +199,17 @@ Montana BLACK is designed specifically for graffiti with:
 **Colors Include**: Full Montana BLACK spectrum
 **Product Codes**: MBL series
 
+### MTN 94 400ml (169 colors)
+
+MTN 94 is a versatile spray paint from Montana Colors perfect for:
+- Fine art and graffiti applications
+- Low-pressure precision control
+- Excellent color saturation and coverage
+- Wide color spectrum including unique hues
+
+**Colors Include**: Complete RV-series color range (Ipanema Yellow, Party Yellow, Canarias Yellow, and many more)
+**Product Codes**: RV-series (e.g., RV-189, RV-20, RV-109)
+
 ### Molotow Belton Premium (Partial - 10 colors)
 
 Molotow Belton Premium offers:
@@ -185,8 +236,8 @@ This repository is actively maintained and synchronized with the development of 
 - ✅ Loop Colors 400ml
 - ✅ Montana GOLD 400ml
 - ✅ Montana BLACK 400ml
+- ✅ MTN 94 400ml
 - ⚠️ Molotow Belton Premium (improving)
-- 🔜 MTN 94 (pending)
 - 🔜 MTN Hardcore (pending)
 - 🔜 Additional spray paint brands
 
