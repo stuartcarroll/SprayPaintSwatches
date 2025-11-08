@@ -63,7 +63,6 @@ All spray paint colors are available in **three formats**: ASE (Adobe apps), PDF
 | `mtn_hardcore.ase` | MTN Hardcore 400ml | 139 | 6.8 KB | ✅ Complete |
 | `mtn_water_based.ase` | MTN Water Based 400ml | 74 | 18 KB | ✅ Complete |
 | `molotow_premium.ase` | Molotow PREMIUM 400ml | 163 | 6.4 KB | ✅ Complete |
-| `molotow_belton.ase` | Molotow Belton Premium | 10* | 616 B | ⚠️ Partial |
 
 ### PDF Color Charts (Printable Reference)
 
@@ -92,7 +91,6 @@ All spray paint colors are available in **three formats**: ASE (Adobe apps), PDF
 | `molotow_premium.xlsx` | Molotow PREMIUM 400ml | 163 | 20 KB |
 
 **Total Colors**: 1,147 authentic spray paint colors
-***Note**: Molotow Belton is currently incomplete and being improved
 
 ---
 
@@ -301,16 +299,18 @@ MTN Hardcore is a high-performance spray paint from Montana Colors designed for:
 - Wide color range for maximum creative freedom
 
 **Colors Include**: Full Hardcore color spectrum (Unicorn Yellow, Beach Yellow, Party Yellow, and many more)
-**Product Codes**: HC-series (e.g., HC-220, HC-221, HC-222)
+**Product Codes**: HC-series (e.g., HC-221, HC-222, HC-223)
 
-### Molotow Belton Premium (Partial - 10 colors)
+### Molotow PREMIUM 400ml (163 colors)
 
-Molotow Belton Premium offers:
+Molotow PREMIUM offers:
 - Professional-grade quality
-- Versatile application
-- Wide compatibility with surfaces
+- Excellent coverage and opacity
+- Wide color range
+- Durable on multiple surfaces
 
-**Status**: Currently incomplete - being improved in the next update
+**Colors Include**: Complete PREMIUM range from #001 (Jasmin Yellow) through extensive color spectrum
+**Product Codes**: #001-#250 series
 
 ---
 
@@ -324,15 +324,16 @@ This repository is actively maintained and synchronized with the development of 
 - **Version Control**: All updates are tracked via git commits
 - **Changelog**: See commit history for detailed changes
 
-### Planned Additions
+### Completed Additions
 
-- ✅ Loop Colors 400ml
-- ✅ Montana GOLD 400ml
-- ✅ Montana BLACK 400ml
-- ✅ MTN 94 400ml
-- ✅ MTN Hardcore 400ml
-- ⚠️ Molotow Belton Premium (improving)
-- 🔜 Additional spray paint brands
+- ✅ Loop Colors 400ml (211 colors)
+- ✅ Montana GOLD 400ml (193 colors)
+- ✅ Montana BLACK 400ml (164 colors)
+- ✅ Montana WHITE 400ml (24 colors)
+- ✅ MTN 94 400ml (169 colors)
+- ✅ MTN Hardcore 400ml (139 colors)
+- ✅ MTN Water Based 400ml (74 colors)
+- ✅ Molotow PREMIUM 400ml (163 colors)
 
 ---
 
@@ -505,8 +506,9 @@ You can:
 
 Color data is sourced from manufacturer websites. Product names, codes, and trademarks belong to their respective owners:
 - Loop Colors is a trademark of Loop Colors
-- Montana GOLD and Montana BLACK are trademarks of Montana Colors
-- Molotow Belton is a trademark of Molotow
+- Montana GOLD, Montana BLACK, and Montana WHITE are trademarks of Montana Cans
+- MTN 94, MTN Hardcore, and MTN Water Based are trademarks of Montana Colors
+- Molotow PREMIUM is a trademark of Molotow
 
 This is an independent educational project and is not affiliated with, endorsed by, or sponsored by any spray paint manufacturer.
 
