@@ -54,10 +54,12 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | File | Brand | Colors | Size | Status |
 |------|-------|--------|------|--------|
 | `loop_colors.ase` | Loop Colors 400ml | 211 | 9.1 KB | ✅ Complete |
-| `montana_gold.ase` | Montana GOLD 400ml | 193 | 7.4 KB | ✅ Complete |
-| `montana_black.ase` | Montana BLACK 400ml | 181 | 7.6 KB | ✅ Complete |
-| `mtn94.ase` | MTN 94 400ml | 169 | 51 KB | ✅ Complete |
+| `montana_gold.ase` | Montana GOLD 400ml | 193 | 8.7 KB | ✅ Complete |
+| `montana_black.ase` | Montana BLACK 400ml | 164 | 6.7 KB | ✅ Complete |
+| `montana_white.ase` | Montana WHITE 400ml | 24 | 944 B | ✅ Complete |
+| `mtn94.ase` | MTN 94 400ml | 169 | 8.1 KB | ✅ Complete |
 | `mtn_hardcore.ase` | MTN Hardcore 400ml | 139 | 6.8 KB | ✅ Complete |
+| `mtn_water_based.ase` | MTN Water Based 400ml | 74 | 18 KB | ✅ Complete |
 | `molotow_belton.ase` | Molotow Belton Premium | 10* | 616 B | ⚠️ Partial |
 
 ### PDF Color Charts (Printable Reference)
@@ -65,12 +67,14 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | File | Brand | Colors | Size |
 |------|-------|--------|------|
 | `loop_colors_colors.pdf` | Loop Colors 400ml | 211 | 31 KB |
-| `montana_gold_colors.pdf` | Montana GOLD 400ml | 193 | 29 KB |
-| `montana_black_colors.pdf` | Montana BLACK 400ml | 181 | 27 KB |
-| `mtn94_colors.pdf` | MTN 94 400ml | 169 | 25 KB |
+| `montana_gold_colors.pdf` | Montana GOLD 400ml | 193 | 30 KB |
+| `montana_black_colors.pdf` | Montana BLACK 400ml | 164 | 26 KB |
+| `montana_white_colors.pdf` | Montana WHITE 400ml | 24 | 5.2 KB |
+| `mtn94_colors.pdf` | MTN 94 400ml | 169 | 27 KB |
 | `mtn_hardcore_colors.pdf` | MTN Hardcore 400ml | 139 | 22 KB |
+| `mtn_water_based_colors.pdf` | MTN Water Based 400ml | 74 | 13 KB |
 
-**Total Colors**: 893 authentic spray paint colors
+**Total Colors**: 984 authentic spray paint colors
 ***Note**: Molotow Belton is currently incomplete and being improved
 
 ---
@@ -288,9 +292,9 @@ Each ASE file is:
 ## 📊 Statistics
 
 ```
-Total Colors:       893
-Total Files:        5
-Average File Size:  16.6 KB
+Total Colors:       984
+Total Files:        7
+Average File Size:  7.6 KB
 Color Validation:   100% pass rate
 Import Success:     100% (Photoshop/Fresco)
 Last Updated:       2025-11-08
