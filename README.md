@@ -57,6 +57,7 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | `montana_gold.ase` | Montana GOLD 400ml | 193 | 7.4 KB | ✅ Complete |
 | `montana_black.ase` | Montana BLACK 400ml | 181 | 7.6 KB | ✅ Complete |
 | `mtn94.ase` | MTN 94 400ml | 169 | 51 KB | ✅ Complete |
+| `mtn_hardcore.ase` | MTN Hardcore 400ml | 139 | 6.8 KB | ✅ Complete |
 | `molotow_belton.ase` | Molotow Belton Premium | 10* | 616 B | ⚠️ Partial |
 
 ### PDF Color Charts (Printable Reference)
@@ -67,8 +68,9 @@ This repository provides **ready-to-use ASE files** containing the complete colo
 | `montana_gold_colors.pdf` | Montana GOLD 400ml | 193 | 29 KB |
 | `montana_black_colors.pdf` | Montana BLACK 400ml | 181 | 27 KB |
 | `mtn94_colors.pdf` | MTN 94 400ml | 169 | 25 KB |
+| `mtn_hardcore_colors.pdf` | MTN Hardcore 400ml | 139 | 22 KB |
 
-**Total Colors**: 754 authentic spray paint colors
+**Total Colors**: 893 authentic spray paint colors
 ***Note**: Molotow Belton is currently incomplete and being improved
 
 ---
@@ -210,6 +212,17 @@ MTN 94 is a versatile spray paint from Montana Colors perfect for:
 **Colors Include**: Complete RV-series color range (Ipanema Yellow, Party Yellow, Canarias Yellow, and many more)
 **Product Codes**: RV-series (e.g., RV-189, RV-20, RV-109)
 
+### MTN Hardcore 400ml (139 colors)
+
+MTN Hardcore is a high-performance spray paint from Montana Colors designed for:
+- Professional graffiti and street art
+- All-surface versatility
+- Glossy finish with excellent opacity
+- Wide color range for maximum creative freedom
+
+**Colors Include**: Full Hardcore color spectrum (Unicorn Yellow, Beach Yellow, Party Yellow, and many more)
+**Product Codes**: HC-series (e.g., HC-220, HC-221, HC-222)
+
 ### Molotow Belton Premium (Partial - 10 colors)
 
 Molotow Belton Premium offers:
@@ -237,8 +250,8 @@ This repository is actively maintained and synchronized with the development of 
 - ✅ Montana GOLD 400ml
 - ✅ Montana BLACK 400ml
 - ✅ MTN 94 400ml
+- ✅ MTN Hardcore 400ml
 - ⚠️ Molotow Belton Premium (improving)
-- 🔜 MTN Hardcore (pending)
 - 🔜 Additional spray paint brands
 
 ---
@@ -275,9 +288,9 @@ Each ASE file is:
 ## 📊 Statistics
 
 ```
-Total Colors:       585+
-Total Files:        4
-Average File Size:  6.2 KB
+Total Colors:       893
+Total Files:        5
+Average File Size:  16.6 KB
 Color Validation:   100% pass rate
 Import Success:     100% (Photoshop/Fresco)
 Last Updated:       2025-11-08
